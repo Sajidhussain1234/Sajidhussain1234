@@ -22,5 +22,5 @@ VSCode, Visual Studio
 DevOps:
 Git GitHub
 
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussain)    ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussain)
+![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussain) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussain)
 
