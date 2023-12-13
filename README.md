@@ -7,7 +7,6 @@ LinkedIn | Gmail | Dribble
 I'm a 🚀 CS Rising Senior at Riphah International University 💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
 
 I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Web development. I love reading books 📚 playing cricket 🏏. I love being creative and aspiring the interesting dreams.
-<FaBook /> Bookworm | <FaLaptopCode /> Web Developer | <FaCricket /> Cricket Enthusiast
 
 Development Stack: 
 MERN 
