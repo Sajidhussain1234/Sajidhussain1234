@@ -1,4 +1,3 @@
-import { FaBook, FaLaptopCode, FaCricket } from 'react-icons/fa';
 
 Hi, I'm Sajid Hussain 
 
