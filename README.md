@@ -2,9 +2,7 @@ Hi, I'm Sajid Hussain
 
 LinkedIn | Gmail | Dribble 
 
-I'm a Web developer!
-Hi! My name is Sajid and I'm a CS Rising Senior at Riphah International University.
-🚀 CS Rising Senior at Riphah International University
+Hi! My name is Sajid and I'm a 🚀 CS Rising Senior at Riphah International University.
 💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
 
 
