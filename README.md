@@ -9,7 +9,7 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 
 Development Stack: 
 MERN 
-![JavaScript Logo](https://raw.githubusercontent.com/Sajidhussain1234/images/main/JS-logo.svg)
+![JavaScript Logo](https://raw.githubusercontent.com/Sajidhussain1234/main/images/JS-logo.svg)
 
 UI framework:
 Material UI, Tailwindcss
