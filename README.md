@@ -2,8 +2,6 @@ Hi, I'm Sajid Hussain
 
 LinkedIn | Gmail | Dribble 
 
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussain)
-
 I'm a Web developer!
 Hi! My name is Sajid and I'm a CS Rising Senior at Riphah International University.
 
@@ -19,3 +17,6 @@ VSCode, Visual Studio
 
 DevOps:
 Git GitHub
+
+![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussain) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussain)
+
