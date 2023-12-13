@@ -12,11 +12,15 @@ MERN
 UI framework:
 Material UI, Tailwindcss
 
+![MERN Stack](https://raw.githubusercontent.com/sajidhussain/mern-stack-logo/master/mern-stack-logo.svg)
+![Material UI](https://material-ui.com/static/logo_raw.svg)
+![Tailwind CSS](https://tailwindcss.com/_next/static/media/icon-square-512.5f6d52d7356784e267c54dbb4f63bc22.png)
+
 Utilities:
 VSCode, Visual Studio
 
 DevOps:
 Git GitHub
 
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussain) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussain)
+![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussain)    ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussain)
 
