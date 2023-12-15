@@ -11,18 +11,18 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 
 
 ## Development Stack:
-![MERN](https://raw.githubusercontent.com/Sajidhussain1234/main/images/JS-logo.svg)
+- [MERN](https://raw.githubusercontent.com)
 
 ## UI Frameworks:
-- ![Material UI](https://material-ui.com)
-- [Tailwind CSS](https://tailwindcss.com/) 
+- [Material UI](https://mui.com/) 
+- [Tailwind CSS](https://tailwindcss.com) 
 
 ## Utilities:
 - [VS Code](https://code.visualstudio.com/)
 
 ## DevOps:
--![Git](https://git-scm.com/)
-- ![GitHub](https://github.com/Sajidhussain1234)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/Sajidhussain1234)
 - 
 
 ![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussain) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussain)
