@@ -1,5 +1,5 @@
 
-Hi, I'm Sajid Hussain 
+# Hi, I'm Sajid Hussain 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajidhussain71/)
@@ -9,22 +9,21 @@ Hi, I'm Sajid Hussain
 I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Web development. I love reading books 📚 playing cricket 🏏. I love being creative and aspiring the interesting dreams.
  💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
 
-Development Stack: 
-MERN 
-![JavaScript Logo](https://raw.githubusercontent.com/Sajidhussain1234/main/images/JS-logo.svg)
 
-UI framework:
-Material UI, Tailwindcss
+## Development Stack:
+- MERN 
+![JavaScript](https://raw.githubusercontent.com/Sajidhussain1234/main/images/JS-logo.svg)
 
-![MERN Stack](https://raw.githubusercontent.com/sajidhussain/mern-stack-logo/master/mern-stack-logo.svg)
-![Material UI](https://material-ui.com/static/logo_raw.svg)
-![Tailwind CSS](https://tailwindcss.com/_next/static/media/icon-square-512.5f6d52d7356784e267c54dbb4f63bc22.png)
+## UI Frameworks:
+- [Material UI](https://material-ui.com/) ![Material UI](https://material-ui.com/static/logo_raw.svg)
+- [Tailwind CSS](https://tailwindcss.com/) ![Tailwind CSS](https://tailwindcss.com/_next/static/media/icon-square-512.5f6d52d7356784e267c54dbb4f63bc22.png)
 
-Utilities:
-VSCode, Visual Studio
+## Utilities:
+- [VSCode](https://code.visualstudio.com/)
+- Visual Studio
 
-DevOps:
-Git GitHub
+## DevOps:
+- Git ![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github)
 
 ![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussain) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussain)
 
