@@ -6,9 +6,8 @@ Hi, I'm Sajid Hussain
 [![Dribbble](https://img.shields.io/badge/Dribbble-Portfolio-orange?style=for-the-badge&logo=dribbble)](https://dribbble.com/Sajidhussain1234)
 [![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:sajidmcsbwn@gmail.com)
 
-I'm a 🚀 CS Rising Senior at Riphah International University 💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
-
 I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Web development. I love reading books 📚 playing cricket 🏏. I love being creative and aspiring the interesting dreams.
+ 💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
 
 Development Stack: 
 MERN 
