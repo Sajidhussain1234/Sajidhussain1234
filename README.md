@@ -1,10 +1,10 @@
 
 Hi, I'm Sajid Hussain 
 
-📫 You can contact me at [![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:sajidmcsbwn@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajidhussain71/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-Portfolio-orange?style=for-the-badge&logo=dribbble)](https://dribbble.com/Sajidhussain1234)
+[![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:sajidmcsbwn@gmail.com)
 
 I'm a 🚀 CS Rising Senior at Riphah International University 💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
 
