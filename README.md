@@ -1,7 +1,6 @@
 
 Hi, I'm Sajid Hussain 
 
-LinkedIn | Gmail | Dribble 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajidhussain71/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-Portfolio-orange?style=for-the-badge&logo=dribbble)](https:www.dribbble.com/Sajidhussain1234)
 
