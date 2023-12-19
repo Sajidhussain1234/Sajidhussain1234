@@ -21,4 +21,4 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 ## DevOps:
  [Git](https://git-scm.com/) | [GitHub](https://github.com/Sajidhussain1234) 
 
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidhussain1234&hide=issues&show_icons=true&bg_color=1d1f21&text_color=c9d1d9&icon_color=58a6ff) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajidhussain1234&background=1d1f21&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=58a6ff)
+![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidhussain1234&hide=issues&show_icons=true&bg_color=1d1f21&text_color=ffffff&icon_color=58a6ff) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajidhussain1234&background=1d1f21&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=58a6ff&dates=58a6ff)
