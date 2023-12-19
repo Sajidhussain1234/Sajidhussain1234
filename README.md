@@ -9,17 +9,16 @@ I love being creative and aspiring the interesting dreams.
 I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Web development. I love reading books, playing cricket.   
  💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
 
-
 ## Development Stack:
  [MERN](https://raw.githubusercontent.com)
 
 ## UI Frameworks:
- [Material UI](https://mui.com/)  [Tailwind CSS](https://tailwindcss.com) 
+ [Material UI](https://mui.com/) | [Tailwind CSS](https://tailwindcss.com) 
 
 ## Utilities:
  [VS Code](https://code.visualstudio.com/)
 
 ## DevOps:
- [Git](https://git-scm.com/)  [GitHub](https://github.com/Sajidhussain1234) 
+ [Git](https://git-scm.com/) | [GitHub](https://github.com/Sajidhussain1234) 
 
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidhussain1234) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajidhussain1234)
+![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidhussain1234&hide=issues&show_icons=true&bg_color=1d1f21&text_color=c9d1d9&icon_color=58a6ff) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajidhussain1234&background=1d1f21&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=58a6ff)
