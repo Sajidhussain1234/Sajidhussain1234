@@ -22,4 +22,4 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 ## DevOps:
  [Git](https://git-scm.com/)  [GitHub](https://github.com/Sajidhussain1234) 
 
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussain) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussain)
+![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidhussain1234) ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajidhussain1234)
