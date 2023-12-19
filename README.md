@@ -1,5 +1,5 @@
-# Hi, I'm Sajid Hussain   
-## MERN Stack Developer
+# Hi, I'm Sajid Hussain
+#### MERN Stack Developer
 I love being creative and aspiring the interesting dreams.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajidhussain71/)
