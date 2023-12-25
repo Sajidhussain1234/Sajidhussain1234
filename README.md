@@ -32,14 +32,19 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 <!-- Postgree db Logo -->
 <img src="./images/postgree.jpeg" alt="postgree Logo" width="50" height="50">
 
-<!-- Material-UI Logo -->
-<img src="./images/mui.png" alt="Material-UI Logo" width="50" height="50">
-<!-- Tailwindcss Logo -->
-<img src="./images/tailwindcss-logo.jpeg" alt="Tailwindcss Logo" width="50" height="50">
 <!-- Html Logo -->
 <img src="./images/html.png" alt="html Logo" width="50" height="50">
 <!-- Css Logo -->
 <img src="./images/css.png" alt="css Logo" width="50" height="50">
+<!-- Material-UI Logo -->
+<img src="./images/mui.png" alt="Material-UI Logo" width="50" height="50">
+<!-- Tailwindcss Logo -->
+<img src="./images/tailwindcss-logo.jpeg" alt="Tailwindcss Logo" width="50" height="50">
+
+<!-- Git Logo -->
+<img src="./images/git.png" alt="git Logo" width="50" height="50">
+<!-- GitHub Logo -->
+<img src="./images/github.jpeg" alt="github Logo" width="50" height="50">
 
 <!-- Add more logos as needed -->
 
