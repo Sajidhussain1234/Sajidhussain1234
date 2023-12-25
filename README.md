@@ -17,14 +17,31 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
-<!-- JavaScript Logo -->
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Logo" width="50" height="50">
+<!-- C++ Logo -->
+<img src="./images/c++.png" alt="C++ Logo" width="50" height="50">
+<!-- JS Logo -->
+<img src="./images/js.png" alt="JS Logo" width="50" height="50">
+<!-- Reactjs Logo -->
+<img src="./images/react.png" alt="React Logo" width="50" height="50">
+<!-- Nextjs Logo -->
+<img src="./images/next.png" alt="Next.js Logo" width="50" height="50">
+<!-- Nodejs Logo -->
+<img src="./images/node.png" alt="node.js Logo" width="50" height="50">
+<!-- Express Logo -->
+<img src="./images/express.png" alt="express Logo" width="50" height="50">
+<!-- Mongodb Logo -->
+<img src="./images/mongodb.png" alt="mongodb Logo" width="50" height="50">
+<!-- Postgree db Logo -->
+<img src="./images/postgree.jpeg" alt="postgree Logo" width="50" height="50">
 
 <!-- Material-UI Logo -->
-<img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI Logo" width="50" height="50">
-
+<img src="./images/mui.png" alt="Material-UI Logo" width="50" height="50">
 <!-- Tailwindcss Logo -->
 <img src="./images/tailwindcss-logo.jpeg" alt="Tailwindcss Logo" width="50" height="50">
+<!-- Html Logo -->
+<img src="./images/html.png" alt="html Logo" width="50" height="50">
+<!-- Css Logo -->
+<img src="./images/css.png" alt="css Logo" width="50" height="50">
 
 <!-- Add more logos as needed -->
 
