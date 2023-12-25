@@ -19,6 +19,8 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 <img src="./images/c++.png" alt="C++ Logo" width="50" height="50">
 <!-- JS Logo -->
 <img src="./images/js.png" alt="JS Logo" width="50" height="50">
+<!-- TS Logo -->
+<img src="./images/ts.png" alt="TS Logo" width="50" height="50">
 <!-- Reactjs Logo -->
 <img src="./images/react.png" alt="React Logo" width="50" height="50">
 <!-- Nextjs Logo -->
