@@ -13,7 +13,7 @@ I love being creative and aspiring the interesting dreams.
 I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Web development. I love reading books, playing cricket.  
  💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
 
-## 🔥 Languages & Frameworks & libraries & Tools & Abilities 🔥
+## 🔥 Languages & Frameworks & Libraries & Tools & Abilities 🔥
 
 <!-- C++ Logo -->
 <img src="./images/c++.png" alt="C++ Logo" width="50" height="50">
