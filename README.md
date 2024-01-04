@@ -10,7 +10,7 @@ I love being creative and aspiring the interesting dreams.
 [![Dribbble](https://img.shields.io/badge/Dribbble-Portfolio-orange?style=for-the-badge&logo=dribbble)](https://dribbble.com/Sajidhussain1234)
 [![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:sajidmcsbwn@gmail.com)
 
-I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Web development. I love reading books, playing cricket.  
+I've always been a person who if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but especially, my deep interest lies in Web development. I love reading books and playing cricket.  
  💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
 
 ## 🔥 Languages & Frameworks & Libraries & Tools & Abilities 🔥
