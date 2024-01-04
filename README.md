@@ -50,7 +50,7 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 
 <!-- Add more logos as needed -->
 
-## ⚡ Stats ⚡</h2>
+## ⚡ statistics ⚡</h2>
 
 ![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidhussain1234&hide=issues&show_icons=true&bg_color=1d1f21&text_color=ffffff&icon_color=58a6ff&title_color=ffffff&border_color=58a6ff&line_height=24&hide_border=true)
 
