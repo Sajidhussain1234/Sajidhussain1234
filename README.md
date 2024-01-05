@@ -54,9 +54,6 @@ I've always been a person who if something fascinates me then 🔎 I'd find out 
 
 ![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidhussain1234&hide=issues&show_icons=true&bg_color=1d1f21&text_color=ffffff&icon_color=58a6ff&title_color=ffffff&border_color=58a6ff&line_height=24&hide_border=true)
 
-
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidhussain1234&hide=issues&show_icons=true&bg_color=1d1f21&text_color=ffffff&icon_color=58a6ff&title_color=ffffff&border_color=58a6ff&line_height=24&hide_border=true)
-
 ![Sajid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussain1234&background=1d1f21&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=58a6ff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=58a6ff&stroke=58a6ff)
 
 </div>
