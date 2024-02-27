@@ -7,7 +7,7 @@
 I love being creative and aspiring the interesting dreams.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajidhussain71/)
-[![Dribbble](https://img.shields.io/badge/Dribbble-Portfolio-orange?style=for-the-badge&logo=dribbble)](https://dribbble.com/Sajidhussain1234)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=link)](https://sajid-personal-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:sajidmcsbwn@gmail.com)
 
 I've always been a person who if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but especially, my deep interest lies in Web development. I love reading books and playing cricket.  
